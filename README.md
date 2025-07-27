@@ -1,6 +1,7 @@
 # Git Practice Project
 
-This is a small Python script to practice Git workflow with clean commit history, branching, and basic version control hygiene.
+This is a concise Python script designed to practice core Git workflows like branching, clean commits, rebasing, and version control hygiene. It also demonstrates beginner Python logic through simple text analysis utilities.
+
 
 ## Features
 
@@ -16,7 +17,7 @@ This is a small Python script to practice Git workflow with clean commit history
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/git-practice.git
+   git clone https://github.com/SusanRobbins/git-practice.git
    cd git-practice
    ```
 
@@ -25,7 +26,7 @@ This is a small Python script to practice Git workflow with clean commit history
    python text_utils.py
    ```
 
-## Example Output
+### Example Output
 
 ```
 Text: 'Git is amazing for version control!'
@@ -34,7 +35,7 @@ Characters: 35
 Average word length: 4.83
 ```
 
-## Git Practice Ideas
+## Version Control Skills Practiced
 
 This project is perfect for practicing:
 
@@ -45,6 +46,13 @@ This project is perfect for practicing:
 - Tagging releases
 - Handling merge conflicts
 
+## Learning Goals
+
+This project was created to:
+- Practice core Git workflows and version control etiquette
+- Reinforce Python fundamentals like string manipulation and functions
+- Build a clean, presentable GitHub repository with a clean commit history and organized structure
+
 ## Contributing
 
 1. Fork the repository
@@ -53,3 +61,9 @@ This project is perfect for practicing:
 4. Commit your changes (`git commit -m 'Add amazing feature'`)
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Open a Pull Request
+
+## Author
+
+**Susan Robbins**  
+Aspiring developer, technical writer, and snack-fetching mom.  
+[LinkedIn](https://www.linkedin.com/in/susanrobbins-dev) · [Blog](https://medium.com/@susanrobbins_dev)
